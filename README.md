@@ -1,4 +1,4 @@
-Publish Azure Static Web Apps using an ARM Template
+"Publish Azure Static Web Apps using an ARM Template"
 
 Using these templates, we can deploy Azure Static Web Apps.
 
