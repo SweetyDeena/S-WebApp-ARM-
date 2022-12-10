@@ -2,7 +2,8 @@ Publish Azure Static Web Apps using an ARM Template
 
 Using these templates, we can deploy Azure Static Web Apps.
 
-Running the deployment
+Running the deployment:
+
 ->To deploy a template, sign in to either the Azure CLI or Azure PowerShell
      az login
      
