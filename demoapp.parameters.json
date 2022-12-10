@@ -34,8 +34,8 @@
         },
         "resourceTags": {
             "value": {
-                "Environment": "Development",
-                "Project": "Testing SWA with ARM",
+                
+                "Project": "Static WA with ARM",
                 "ApplicationName": "myfirstswadeployment"
             }
         },
