@@ -8,7 +8,7 @@ Running the deployment
 ->Create a resource group
      az group create --name resourceGroupName --location "Central US"
 ->Deploy template
-     az deployment group create --name DeployLocalTemplate --resource-group $resourceGroupName --template-file <PATH-TO-AZUREDEPLOY.JSON> --parameters <PATH-TO-AZUREDEPLOY.PARAMETERS.JSON> \
+     az deployment group create --name DeployLocalTemplate --resource-group $resourceGroupName --template-file <PATH-TO-AZUREDEPLOY.JSON> --parameters <PATH-TO-AZUREDEPLOY.PARAMETERS.JSON> 
   
    
 
